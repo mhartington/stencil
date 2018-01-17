@@ -78,7 +78,7 @@ Easily polyfill-able
 
 ---
 
-![https://imgs.xkcd.com/comics/standards.png](https://imgs.xkcd.com/comics/standards.png)
+<img src="https://imgs.xkcd.com/comics/standards.png" />
 
 ---
 
